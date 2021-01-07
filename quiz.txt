@@ -1,0 +1,6 @@
+{1: {'options': ['d', 'd', ''], 'answer': 'd'}, 2: {'options': ['sd', 'f', 'dsf'], 'answer': 'c'}, 3: {'options': ['sdf', 'c', 'd'], 'answer': 's'}}{1: {'options': ['q', 'q', 'w'], 'answer': 'w'}, 2: {'options': ['qwq', 'weqwe', 'qwew'], 'answer': 'qqq'}, 3: {'options': ['qqw', 'qwe', 'qwe'], 'answer': 'qqqqq'}}
+{1: {'options': ['bombal', 'o', 'netw'], 'answer': 'boma'}, 2: {'options': ['sd', 'sdr', 'jfdsl'], 'answer': 'd'}, 3: {'options': ['this', 'that', 'and'], 'answer': 'a'}}
+{1: {'options': ['sdf', 'dsfd', 'sd'], 'answer': ''}, 2: {'options': ['c', 's', 'ds'], 'answer': 'f'}, 3: {'options': ['dfs', 'fssdf', 'sds'], 'answer': 'dfsdf'}}
+['waht is this', 'this is s', 'thls']  {1: {'options': ['thi', 'th', 'is'], 'answer': 'this'}, 2: {'options': ['s', 'f', 'w'], 'answer': 'w'}, 3: {'options': ['st', 'sls', 'ss'], 'answer': 's'}}
+['ftp port number is ?', 'thodi jagah ..', 'complete this \\n  () => {console.__("done");}'] ;9; {1: {'options': ['21', '23', '22'], 'answer': '1'}, 2: {'options': ['dede', 'khamos', 'dede mujhe'], 'answer': '3'}, 3: {'options': ['done', 'log', 'alert'], 'answer': '2'}}
+['fd is ss', 'ddf', 'fdskjf '] ;9; {1: {'options': ['d', 'd', 's'], 'answer': '1'}, 2: {'options': ['d', 'e', 's'], 'answer': '1'}, 3: {'options': ['dsfk', 'ds', 'sd'], 'answer': '1'}}
